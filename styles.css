@@ -1,0 +1,34 @@
+
+/*------------------------------------*\
+	Colors
+\*------------------------------------*/
+:root {
+	--neutral: #??????;
+	--light: #??????;
+	--medium: #??????;
+	--dark: #??????;
+	/* background-color: var(--neutral); */
+}
+
+
+/*------------------------------------*\
+	Page
+\*------------------------------------*/
+body {
+	font-family: Georgia, Times, "Times New Roman", serif;
+	/* padding-top: 56px; */
+}
+
+
+/*------------------------------------*\
+	Footer
+\*------------------------------------*/
+
+footer .social i {
+	color: #fff;
+	font-size: 2.5rem;
+}
+
+footer .social i:hover {
+	opacity: .75;
+}
